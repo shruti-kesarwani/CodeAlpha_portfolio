@@ -10,4 +10,11 @@ Javascript
 - Project showcase section
 - Contact form with social links
 
+## 🚀 Live Site  
+[Visit My Portfolio](https://shruti-kesarwani.github.io/portfolio)
 
+##Connect with me
+🔗 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shruti-kesarwani-66550824a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
