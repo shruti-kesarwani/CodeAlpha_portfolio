@@ -1,2 +1,13 @@
 # portfolio
 Personal and Responsive portfolio built with HTML, CSS, and JavaScript to showcasing my projects, skills, professional links and coding journey.
+## Tech stack
+HTML5
+CSS3
+Javascript
+
+## Features
+- Responsive design for all devices
+- Project showcase section
+- Contact form with social links
+
+
